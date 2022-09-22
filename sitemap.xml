@@ -4,6 +4,22 @@
   
   
   <url>
+    <loc>https://liu-jinyu.github.io/home_archived/skills/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://liu-jinyu.github.io/home_archived/accomplishments/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://liu-jinyu.github.io/home_archived/posts/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://liu-jinyu.github.io/home_archived/projects/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://liu-jinyu.github.io/home_archived/talks/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://liu-jinyu.github.io/home_archived/featured/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://liu-jinyu.github.io/home_archived/publications/</loc><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://liu-jinyu.github.io/home_archived/tags/</loc><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://liu-jinyu.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://liu-jinyu.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -42,4 +58,6 @@
   <url>
     <loc>https://liu-jinyu.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://liu-jinyu.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://liu-jinyu.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://liu-jinyu.github.io/home_archived/</loc><changefreq>weekly</changefreq></url></urlset>
